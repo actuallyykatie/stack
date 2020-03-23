@@ -19,6 +19,14 @@ The following variables were chosen as predictors:
 **Methods:** 
 - **model:** logistic regression  
 
+
+**Results:**   
+
+- developers who consider blockchain useful have more optimistic thoughts compared to those with negative attitude  
+- region matters as well: most regions had higher odds of belief in better life compared to developers in Northern America  
+- gender and age: females and non-binary are more suspicious about the future, as well as people with higher age.
+
+
 **View as**:
 - [markdown](logit/logit.md)  
 - [html](http://actuallyykatie.github.io/stack/logit/logit.html)
