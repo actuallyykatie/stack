@@ -20,5 +20,5 @@ The following variables were chosen as predictors:
 - **model:** logistic regression  
 
 **View as**:
-- [markdown](http://actuallyykatie.github.io/stack/logit/logit.md)  
+- [markdown](logit/logit.md)  
 - [html](http://actuallyykatie.github.io/stack/logit/logit.html)
